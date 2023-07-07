@@ -1,0 +1,17 @@
+.formGroup{
+    width: 200px;
+    
+  }
+  input{
+    width: 200px;
+    height: 40px;
+    margin-bottom:20px;
+  }
+  .forgotPassword{
+    position: relative;
+    top: 10px;
+  }
+  .redirectToLogin{
+    position: relative;
+    top: 10px;
+  }
